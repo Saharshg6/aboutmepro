@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    background-color: blue;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.menu {
+    text-align: left;
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+
+#Pic {
+    width: 200px;
+}
+
+#bio {
+    background: linear-gradient(#ffffff 30%, #0352fc 100%);
+}
+
+#mv {
+    background: linear-gradient(#ffffff 30%, #19fff7 100%);
+}
+
+#ms {
+    background: linear-gradient(#ffffff 30%, #0352fc 100%);
+}
+
+#web {
+    background: linear-gradient(#ffffff 30%, #19fff7 100%);
+}
+
+#con {
+    background: linear-gradient(#ffffff 30%, #0352fc 100%);
+}
+
+#mi {
+    width: 105px;
+    height: 100px;
+}
+
+#mc{
+    height: 130px;
+    width: 220px;
+}
+
+#myinspi {
+    background: linear-gradient(#19fff7 30%, #0352fc 100%);
+}
+
+
+#m{
+background-color: white;
+}
+
+
